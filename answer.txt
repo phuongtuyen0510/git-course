@@ -1,7 +1,7 @@
 // Global configuration
-git config --global user.name "Udemy - Cappu"
-git config --global user.email "phuongtuyen0510@gmail.com"
+git config --global user.name "<name>"
+git config --global user.email "<email>"
 
 //Local configuration
-git config user.name "Udemy - Cappu"
-git config user.email "phuongtuyen0510@gmail.com"
+git config user.name "<name>"
+git config user.email "<email>"
