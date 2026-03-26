@@ -1,0 +1,15 @@
+1.
+git commit --amend : thay đổi commit message sau khi đã commit thông qua giao diện VIM
+git commit --amend -m”<message>”: trực tiếp thay đổi commit message sau khi đã commit 
+git restore --staged <file> : đưa file từ vùng stag về vùng working 
+git reset HEAD~1 : di chuyển 1 commit mới nhất về vùng working 
+
+2.
+Vùng working: file2, file3
+Vùng staging: ko có gì
+Vùng repository : file1
+
+3.
+Vùng working: .gitignore
+Vùng staging: 
+Vùng repository : file2.txt
